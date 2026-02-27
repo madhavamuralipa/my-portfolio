@@ -1,1 +1,1 @@
-# my-portfolio
+contains all image files for the project
